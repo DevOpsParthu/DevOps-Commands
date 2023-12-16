@@ -1,0 +1,19 @@
+1) date:  you can use this command in your system to see date , time and day.
+
+2) mkdir <your_foldername>: you can use this command to create a folder.
+
+3) rmdir <your_foldername>: you can use this command to remove a folder.
+
+4) touch <your_filename>: you can use this command to create a file.
+
+5) vi/vim/nano <your_filename>: you can use this command to edit or write your files.
+
+6) ls -l : you can use this commmand to see your files and folders with with additional info such as permissions, ownership, size, timestamps etc.
+
+7) rm <your_filename>: you can use this command to remove a file.
+
+8) rm -rf <your_file/foldername>: you can use this command to remove your file and folder -r = recursively and -f = forcibly
+
+9) pwd: you can use this command to see your Present Working Driectory
+
+10) cat <your_filename>: you can use this command to see what you worte in your file 
