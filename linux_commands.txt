@@ -12,8 +12,8 @@
 
 7) rm <your_filename>: you can use this command to remove a file.
 
-8) rm -rf <your_file/foldername>: you can use this command to remove your file and folder -r = recursively and -f = forcibly
+8) rm -rf <your_file/foldername>: you can use this command to remove your file and folder -r = recursively and -f = forcibly.
 
-9) pwd: you can use this command to see your Present Working Driectory
+9) pwd: you can use this command to see your Present Working Driectory.
 
-10) cat <your_filename>: you can use this command to see what you worte in your file 
+10) cat <your_filename>: you can use this command to see what you worte in your file.
